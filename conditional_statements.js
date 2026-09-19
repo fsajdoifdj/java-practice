@@ -95,7 +95,7 @@ switch (day) {
 
 let firstNumber = 20;
 let secondNumber = 5;
-let operator = prompt("");
+let operator = "+";
 
 switch (operator) {
   case "+":
